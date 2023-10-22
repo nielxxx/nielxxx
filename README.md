@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nielxxx&label=Profile%20views&color=0e75b6&style=flat" alt="nielxxx" /> </p>
 
-- 🔭 I’m currently working on our Business Landing Page Website **Gigamatch**
+- 🔭 I’m currently working/developing my App using Flutter Dart and at the same time, on our Business Landing Page Website **Gigamatch**
 
-- 🌱 I’m currently learning **Javascript, React and more**
+- 🌱 I’m currently learning **Dart, Flutter and more**
 
 - 👨‍💻 All of projects that I'm involve working with [https://donmar-international.com https://cdftradinginc.com https://farmtract.app](https://donmar-international.com https://cdftradinginc.com https://farmtract.app)
 

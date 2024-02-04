@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Dart, Flutter and more**
 
-- 👨‍💻 All of projects that I'm involve working with [https://donmar-international.com https://cdftradinginc.com https://farmtract.app](https://donmar-international.com https://cdftradinginc.com https://farmtract.app)
+- 👨‍💻 All of projects that I'm involve working with [https://donmar-international.com https://cdftradinginc.com]
 
 - 📫 How to reach me **nielughhh@gmail.com**
 

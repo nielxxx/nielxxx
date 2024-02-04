@@ -1,15 +1,15 @@
 [![MasterHead](https://media.licdn.com/dms/image/C5612AQErLJQyuT4h2Q/article-inline_image-shrink_1500_2232/0/1624597705774?e=1700697600&v=beta&t=dEP6CTXqjkkTrlooy2vKf4mZhCQgoY-C6YqCNvoouiU)]()
 <h1 align="center">Hi 👋, I'm Niel and I'm a Front End Wesbite Developer</h1>
-<h3 align="center">As I Front End Website Developer, I will leverage my skills and expertise as a web developer to create innovative and user-friendly websites and applications. I aim to contribute to a dynamic and collaborative team, where I can utilize my programming knowledge and problem-solving abilities to deliver high-quality, responsive, and visually appealing web solutions that meet client needs and exceed their expectations.</h3>
+<h3 align="center">As Software/Website Website Developer, I will leverage my skills and expertise as a developer to create innovative and user-friendly websites and applications. I aim to contribute to a dynamic and collaborative team, where I can utilize my programming knowledge and problem-solving abilities to deliver high-quality, responsive, and visually appealing web/app solutions that meet client needs and exceed their expectations.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nielxxx&label=Profile%20views&color=0e75b6&style=flat" alt="nielxxx" /> </p>
 
-- 🔭 I’m currently working/developing my App using Flutter Dart and at the same time, on our Business Landing Page Website **Gigamatch**
+- 🔭 I’m currently working on a App for our client and also working on a system of our local hospital.
 
-- 🌱 I’m currently learning **Dart, Flutter and more**
+- 🌱 I’m currently learning **React-Native**
 
-- 👨‍💻 All of projects that I'm involve working with [https://donmar-international.com https://cdftradinginc.com]
+- 👨‍💻 All of projects that I'm involve working with [https://donmar-international.com https://cdftradinginc.com https://farmtract.org https://farmtract.org/ecigo]
 
 - 📫 How to reach me **nielughhh@gmail.com**
 

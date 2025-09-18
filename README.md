@@ -15,8 +15,6 @@
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1ea5lpl10Y07-QJzV6oC7R7aIu9QlYmZB4LkZU6iprYw/edit?usp=sharing](https://docs.google.com/document/d/1ea5lpl10Y07-QJzV6oC7R7aIu9QlYmZB4LkZU6iprYw/edit?usp=sharing)
 
-- ⚡ Fun fact **I love Dogs!**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/eznil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="eznil" height="30" width="40" /></a>
